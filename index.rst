@@ -24,7 +24,7 @@ A ventilation fan was installed in the AuxTel dome to aid with bringing the dome
 
 **Fan speed has no impact on mount tracking errors with slit closed.**
 
-.. image:: ./_static/Mount_Errors_Fan_Blowup_22Feb22.png
+.. image:: ./_static/Mount_Errors_Fan_BlowUp_22Feb22.png
 
 **Azimuth oscillations are due to "cogging" and unrelated to fan speed**
 
